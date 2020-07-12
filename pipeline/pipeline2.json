@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Wait1",
+				"description": "description added",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
